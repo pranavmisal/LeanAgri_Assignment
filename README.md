@@ -13,4 +13,4 @@ Bonus points:
 - Host the data back as a web page using the data from excel.
 
 --Code: webscrapping.py
---Output Excel file: leancrop.xsl
+--Output Excel file: leancrop.xls
