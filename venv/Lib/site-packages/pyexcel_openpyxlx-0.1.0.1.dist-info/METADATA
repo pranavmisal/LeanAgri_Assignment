@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyexcel-openpyxlx
+Version: 0.1.0.1
+Summary: Export styles from Excel using OpenPyXL (for XlsxWriter -- pyexcel-xlsxwx)
+Home-page: https://github.com/patarapolw/pyexcel-openpyxlx
+License: MIT
+Keywords: pyexcel,openpyxl,xlsxwriter,pyexcel-xlsxwx
+Author: Pacharapol Withayasakpunt
+Author-email: patarapolw@gmail.com
+Requires-Python: >=3.5
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Dist: openpyxl (>=2.5,<3.0)
+Requires-Dist: ruamel.yaml (>=0.15.50,<0.16.0)
